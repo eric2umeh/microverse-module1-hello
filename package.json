@@ -1,0 +1,29 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric2umeh/microverse-module1-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric2umeh/microverse-module1-hello/issues"
+  },
+  "homepage": "https://github.com/eric2umeh/microverse-module1-hello#readme",
+  "devDependencies": {
+    "hint": "^2.0.0",
+    "stylelint-config-standard": "^29.0.0"
+  },
+  "dependencies": {
+    "stylelint": "^14.15.0",
+    "stylelint-csstree-validator": "^2.0.0",
+    "stylelint-scss": "^4.3.0"
+  }
+}
